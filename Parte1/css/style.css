@@ -1,0 +1,31 @@
+html{
+    background-color: #A7E9E8;
+}
+
+h1, h4{
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-style: double;
+    border-width: 5px;
+}
+
+#quote {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#date {
+    font-weight: bold;
+}
+
+footer{
+    margin-top: 50px;
+}
